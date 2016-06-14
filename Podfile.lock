@@ -1,0 +1,10 @@
+PODS:
+  - ASProgressPopUpView (0.8)
+
+DEPENDENCIES:
+  - ASProgressPopUpView
+
+SPEC CHECKSUMS:
+  ASProgressPopUpView: 945c19297da09a625db48a5a37cabd7756916b9b
+
+COCOAPODS: 0.39.0
